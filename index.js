@@ -1,0 +1,2 @@
+const string = "Coding is the process of creating instructions for computers to follow. It is a way of communicating with computers and telling them what to do. Coding can be used to create a wide variety of things, from simple websites to complex software applications.";
+console.log(`Characters: ${string.length}`);
